@@ -1,0 +1,6 @@
+@Lab3KPZ_CF__HostAddress = http://localhost:5163
+
+GET {{Lab3KPZ_CF__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

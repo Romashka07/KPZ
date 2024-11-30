@@ -1,0 +1,638 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\controllers\\streamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\controllers\\streamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\controllers\\groupsstreamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\controllers\\groupsstreamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\mappers\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\mappers\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\viewmodels\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\viewmodels\\groupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\viewmodels\\groupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\viewmodels\\streamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\viewmodels\\streamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\mappers\\streammapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\mappers\\streammapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\mappers\\groupmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\mappers\\groupmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\mappers\\profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\mappers\\profiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\mappers\\roleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\mappers\\roleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\models\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\models\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\viewmodels\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\viewmodels\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\viewmodels\\groupsstreamsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\viewmodels\\groupsstreamsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\lab3kpz(cf).http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\lab3kpz(cf).http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\migrations\\20241112193958_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\migrations\\20241112193958_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|c:\\users\\\u0440\u043E\u043C\u0430\u043D\\desktop\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u043A\u0443\u0440\u0441 3\\\u043A\u043F\u0437 \u043F\u0440\u043E\u0435\u043A\u0442\\lab3kpz(cf)\\lab3kpz(cf)\\models\\fileimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76FBCE0-8ABF-446C-A2BF-4F771D8EE6C8}|Lab3KPZ(CF)\\Lab3KPZ(CF).csproj|solutionrelative:lab3kpz(cf)\\models\\fileimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 302,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Controllers\\GroupsController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:28:46.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:21:36.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Mappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Mappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Mappers\\MappingProfile.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Mappers\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:26:26.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\Course.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:34:02.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\CourseViewModel.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\ViewModels\\CourseViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\CourseViewModel.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\ViewModels\\CourseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:30:09.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StreamsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\StreamsController.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Controllers\\StreamsController.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\StreamsController.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Controllers\\StreamsController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:25:26.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupsStreamsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\GroupsStreamsController.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Controllers\\GroupsStreamsController.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\GroupsStreamsController.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Controllers\\GroupsStreamsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:13:36.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\Group.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Models\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:34:59.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\Student.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Models\\Student.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:35:22.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:31:11.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Mappers\\StudentMapper.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Mappers\\StudentMapper.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Mappers\\StudentMapper.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Mappers\\StudentMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:27:44.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\ViewModels\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\StudentViewModel.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\ViewModels\\StudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:27:13.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\ViewModels\\RoleViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\RoleViewModel.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\ViewModels\\RoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:13:12.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GroupViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\GroupViewModel.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\ViewModels\\GroupViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\GroupViewModel.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\ViewModels\\GroupViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:31:25.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:11:43.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StreamViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\StreamViewModel.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\ViewModels\\StreamViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\StreamViewModel.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\ViewModels\\StreamViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:31:02.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\User.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:32:26.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StreamMapper.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Mappers\\StreamMapper.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Mappers\\StreamMapper.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Mappers\\StreamMapper.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Mappers\\StreamMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:26:28.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GroupMapper.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Mappers\\GroupMapper.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Mappers\\GroupMapper.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Mappers\\GroupMapper.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Mappers\\GroupMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:47:42.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profiles.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Mappers\\Profiles.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Mappers\\Profiles.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Mappers\\Profiles.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Mappers\\Profiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:23:11.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleProfile.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Mappers\\RoleProfile.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Mappers\\RoleProfile.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Mappers\\RoleProfile.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Mappers\\RoleProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:15:33.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:39:03.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:07:16.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Stream.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\Stream.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Models\\Stream.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\Stream.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Models\\Stream.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:34:33.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\Role.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:31:47.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Program.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABRwBgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:16:05.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:05:11.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\AuthViewModel.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\ViewModels\\AuthViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\AuthViewModel.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\ViewModels\\AuthViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:11:48.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GroupsStreamsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\GroupsStreamsViewModel.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\ViewModels\\GroupsStreamsViewModel.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\ViewModels\\GroupsStreamsViewModel.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\ViewModels\\GroupsStreamsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:14:10.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:10:48.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Lab3KPZ(CF).http",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Lab3KPZ(CF).http",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Lab3KPZ(CF).http",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Lab3KPZ(CF).http",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Lab3KPZ(CF).http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-12T18:16:08.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\appsettings.json",
+              "RelativeToolTip": "Lab3KPZ(CF)\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T18:40:13.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:39:38.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:33:33.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241112193958_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Migrations\\20241112193958_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Migrations\\20241112193958_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Migrations\\20241112193958_InitialCreate.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Migrations\\20241112193958_InitialCreate.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAIBpwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:39:59.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FileImport.cs",
+              "DocumentMoniker": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\FileImport.cs",
+              "RelativeDocumentMoniker": "Lab3KPZ(CF)\\Models\\FileImport.cs",
+              "ToolTip": "C:\\Users\\\u0420\u043E\u043C\u0430\u043D\\Desktop\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\\u041A\u0443\u0440\u0441 3\\\u041A\u041F\u0417 \u041F\u0420\u041E\u0415\u041A\u0422\\Lab3KPZ(CF)\\Lab3KPZ(CF)\\Models\\FileImport.cs",
+              "RelativeToolTip": "Lab3KPZ(CF)\\Models\\FileImport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:35:39.661Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 98,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
