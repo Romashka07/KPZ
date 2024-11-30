@@ -1,0 +1,16 @@
+C:\Users\Роман\Desktop\Навчання\КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\bin\Debug\BoikoRoman.RobotChallenge.dll
+C:\Users\Роман\Desktop\Навчання\КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\bin\Debug\BoikoRoman.RobotChallenge.pdb
+C:\Users\Роман\Desktop\Навчання\КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\bin\Debug\Robot.Common.dll
+C:\Users\Роман\Desktop\Навчання\КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\obj\Debug\BoikoRoman.RobotChallenge.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\Навчання\КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\obj\Debug\BoikoRoman.RobotChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Навчання\КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\obj\Debug\BoikoRom.8BD4111F.Up2Date
+C:\Users\Роман\Desktop\Навчання\КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\obj\Debug\BoikoRoman.RobotChallenge.dll
+C:\Users\Роман\Desktop\Навчання\КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\obj\Debug\BoikoRoman.RobotChallenge.pdb
+C:\Users\Роман\Desktop\Навчання\Курс 3\Звіти КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\bin\Debug\BoikoRoman.RobotChallenge.dll
+C:\Users\Роман\Desktop\Навчання\Курс 3\Звіти КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\bin\Debug\BoikoRoman.RobotChallenge.pdb
+C:\Users\Роман\Desktop\Навчання\Курс 3\Звіти КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\bin\Debug\Robot.Common.dll
+C:\Users\Роман\Desktop\Навчання\Курс 3\Звіти КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\obj\Debug\BoikoRoman.RobotChallenge.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\Навчання\Курс 3\Звіти КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\obj\Debug\BoikoRoman.RobotChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Навчання\Курс 3\Звіти КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\obj\Debug\BoikoRom.8BD4111F.Up2Date
+C:\Users\Роман\Desktop\Навчання\Курс 3\Звіти КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\obj\Debug\BoikoRoman.RobotChallenge.dll
+C:\Users\Роман\Desktop\Навчання\Курс 3\Звіти КПЗ\Тест\BoikoRoman.RobotChallenge\BoikoRoman.RobotChallenge\obj\Debug\BoikoRoman.RobotChallenge.pdb
